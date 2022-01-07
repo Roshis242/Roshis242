@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Roshis242
-- 👀 I’m interested in Fullstack Web development, App Development, Machine Learning, Data Science, Artificial Intelligence
-- 🌱 I’m currently learning App Development And Full Stack Web Development
-- 💞️ I’m looking to collaborate on Web Development And App Development using React Native
+- 👀 I’m interested in Fullstack Web development, App Development, Machine Learning, Data Science, Artificial Intelligence And Blockchain Technology
+- 🌱 I’m currently learning App Development, Full Stack Web Development and Blockchain Technology
+- 💞️ I’m looking to collaborate on Web Development And App Development using Flutter
 - 📫 How to reach me: My Email: rockyrd.12458@gmail.com
+- My website link: https://createwithroshis.pythonanywhere.com/
